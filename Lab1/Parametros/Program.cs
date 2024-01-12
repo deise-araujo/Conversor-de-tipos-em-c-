@@ -16,7 +16,7 @@ class Program
                           "8: boxing -> (qualquer tipo para objeto)\n" +
                           "9: unboxing -> (objeto para qualquer tipo)\n");
         Console.WriteLine("Escolha qual dados você deseja converter:");
-        var userChoice = Console.ReadLine();
+        int userChoice = Convert.ToInt32(Console.ReadLine());
 
         switch (userChoice)
         {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h/HEQ3IqPl90k9CWIcLFUujlslD0aMGNxzfmpGx/jHtjIXlWGmUesLrQUtD5kCJ2c6PK/IIl6l3v7xP6jSC2+g==",
+  "dgSpecHash": "5Sq34e0jQZBbsmsNcqfzhLknDShD3LffBWWwWU2oN9xykPbMGzIIyGroNVfYArF4jzblVIbZMKyAr/kyAXEP0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\deise\\Downloads\\Programacao3\\Lab1\\Parametros\\Parametros.csproj",
+  "projectFilePath": "C:\\Users\\deise\\Documents\\CSharp\\Conversor-de-tipos-em-c-\\Lab1\\Parametros\\Parametros.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\deise\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512"
   ],

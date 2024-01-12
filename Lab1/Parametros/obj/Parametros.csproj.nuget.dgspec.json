@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deise\\Downloads\\Programacao3\\Lab1\\Parametros\\Parametros.csproj": {}
+    "C:\\Users\\deise\\Documents\\CSharp\\Conversor-de-tipos-em-c-\\Lab1\\Parametros\\Parametros.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deise\\Downloads\\Programacao3\\Lab1\\Parametros\\Parametros.csproj": {
+    "C:\\Users\\deise\\Documents\\CSharp\\Conversor-de-tipos-em-c-\\Lab1\\Parametros\\Parametros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deise\\Downloads\\Programacao3\\Lab1\\Parametros\\Parametros.csproj",
+        "projectUniqueName": "C:\\Users\\deise\\Documents\\CSharp\\Conversor-de-tipos-em-c-\\Lab1\\Parametros\\Parametros.csproj",
         "projectName": "Parametros",
-        "projectPath": "C:\\Users\\deise\\Downloads\\Programacao3\\Lab1\\Parametros\\Parametros.csproj",
+        "projectPath": "C:\\Users\\deise\\Documents\\CSharp\\Conversor-de-tipos-em-c-\\Lab1\\Parametros\\Parametros.csproj",
         "packagesPath": "C:\\Users\\deise\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deise\\Downloads\\Programacao3\\Lab1\\Parametros\\obj\\",
+        "outputPath": "C:\\Users\\deise\\Documents\\CSharp\\Conversor-de-tipos-em-c-\\Lab1\\Parametros\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
