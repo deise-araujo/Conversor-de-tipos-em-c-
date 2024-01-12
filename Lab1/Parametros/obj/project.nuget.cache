@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "h/HEQ3IqPl90k9CWIcLFUujlslD0aMGNxzfmpGx/jHtjIXlWGmUesLrQUtD5kCJ2c6PK/IIl6l3v7xP6jSC2+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\deise\\Downloads\\Programacao3\\Lab1\\Parametros\\Parametros.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deise\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Parametros depende de CommandLineParser (>= 2.9.0), mas CommandLineParser 2.9.0 não foi encontrado. A melhor correspondência aproximada de CommandLineParser 2.9.1 foi resolvida.",
+      "libraryId": "CommandLineParser",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
